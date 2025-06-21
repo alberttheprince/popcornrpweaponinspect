@@ -10,7 +10,7 @@ Preview Video: https://youtu.be/SHPY30K4q6U
 - Synced between players
 - Can be used in First or Third person
 - Cancelled if the player shoots
-- Waits to play the animation again if player is already playing an animation
+- Waits to play the animation again if the player is already playing an animation
 
 ## Additional Animations
 
