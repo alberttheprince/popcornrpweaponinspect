@@ -33,8 +33,7 @@ local weaponAnimations = {
     },
     [`GROUP_STUNGUN`] = {
         dict = "weapons@first_person@aim_idle@p_m_zero@pistol@shared@fidgets@c",
-        anim = "fidget_med_loop"
-        
+        anim = "fidget_med_loop" 
     },
 }
 
