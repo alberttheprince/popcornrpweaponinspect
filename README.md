@@ -11,6 +11,7 @@ Preview Video: https://youtu.be/SHPY30K4q6U
 - Can be used in First or Third person
 - Cancelled if the player shoots
 - Waits to play the animation again if the player is already playing an animation
+- Can change animation based on weapon group or add/remove weapon groups (all anims the same by default)
 
 ## Additional Animations
 
