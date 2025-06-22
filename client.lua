@@ -28,8 +28,8 @@ local weaponAnimations = {
         anim = "fidget_med_loop"
     },
     [`GROUP_MG`] = {
-    dict = "weapons@first_person@aim_idle@p_m_zero@pistol@shared@fidgets@c",
-    anim = "fidget_med_loop"
+        dict = "weapons@first_person@aim_idle@p_m_zero@pistol@shared@fidgets@c",
+        anim = "fidget_med_loop"
     },
     [`GROUP_STUNGUN`] = {
         dict = "weapons@first_person@aim_idle@p_m_zero@pistol@shared@fidgets@c",
